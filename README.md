@@ -1,4 +1,4 @@
-# How to setuo
+# How to setup
 - sudo apt install neovim   # For Ubuntu/Debian
 - brew install neovim       # For macOS (Homebrew)
 - winget install Neovim.Neovim  # For Windows (Winget)
