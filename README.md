@@ -1,4 +1,7 @@
-# 💤 LazyVim
+# How to setuo
+- sudo apt install neovim   # For Ubuntu/Debian
+- brew install neovim       # For macOS (Homebrew)
+- winget install Neovim.Neovim  # For Windows (Winget)
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+- Clone the project
+- Start nvim (nvim)
